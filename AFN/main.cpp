@@ -58,7 +58,7 @@ int main()
     cout<<endl;
     automat(stareinit,cuvant,n,nrfin);
     for(i=0;i<k;i++)
-        if(v[i]==1)
+        if(v[i]==1 && OK==0)
     {
         OK=1;
         cout<<"cuvantul apartine"<<endl;
