@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1521371423 source:d:\lfa\afn\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+
